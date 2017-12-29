@@ -1,0 +1,12 @@
+*********************************** Jan-05-2018 ***********************************
+
+*********************************** Dec-29-2017 ***********************************
+
+1. Schedule screen no changes.
+2. Sub schedule - implementation pending.
+3. States - Add code field.
+4. District -- Adding link to states pending.
+5. BE - Remove mobile field from search criteria.
+6. Area Information - Adding link to BE.
+7. Bank Information - Remove Edit button, Remove address from search criteria.
+8. Manufacturers new screen implementation.
