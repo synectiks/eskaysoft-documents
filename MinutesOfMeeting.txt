@@ -10,3 +10,4 @@
 6. Area Information - Adding link to BE.
 7. Bank Information - Remove Edit button, Remove address from search criteria.
 8. Manufacturers new screen implementation.
+9. Srikanth going provide wireframes for another pages.
