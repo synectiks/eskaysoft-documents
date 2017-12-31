@@ -1,5 +1,9 @@
 *********************************** Jan-05-2018 ***********************************
-
+ 
+*********************************** Dec-31-2017 ***********************************
+1. New wireframes added in doc and commited.
+2.Search criteria and table in Subschedule. Criteria flds: Schedule Name, Sub Schedule Name. Table Heads: Sub Schedule Name, Sub Schedule Index,Schedule Name.
+3.Search criteria and table in Mfg. Criteria flds: Name. Table Heads: Name.
 *********************************** Dec-29-2017 ***********************************
 
 1. Schedule screen no changes.
